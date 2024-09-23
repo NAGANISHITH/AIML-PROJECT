@@ -1,0 +1,3 @@
+1. Download and install Tensorflow 2.0.0
+2. download and install numpy compatible version 1.15.0
+3. Rename Folder as "Project" and Move the folder to the Desktop
